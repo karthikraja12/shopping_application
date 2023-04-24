@@ -1,4 +1,4 @@
-# ocean_task
+# shopping application task
 
 A new Flutter project.
 
